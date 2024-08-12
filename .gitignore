@@ -20,7 +20,7 @@ __pycache__/
 /static
 
 # Local development environment
-.env
+admin/.env
 .env.local
 .env.*.local
 .envrc
@@ -90,4 +90,4 @@ secret-config.js
 venv/
 env/
 ENV/
-
+admin/.env
